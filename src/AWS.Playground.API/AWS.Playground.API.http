@@ -1,0 +1,6 @@
+@AWS.Playground.API_HostAddress = http://localhost:5052
+
+GET {{AWS.Playground.API_HostAddress}}/RealEstate/
+Accept: application/json
+
+###
